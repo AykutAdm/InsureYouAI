@@ -107,38 +107,41 @@ InsureYouAI, sigorta sektörüne özel, yapay zeka destekli bir yönetim ve mü�
 ### 🔐 Admin Paneli
 
 <div align="center">
-  <img src="Images/AnaSayfa-1.png" alt="Admin Paneli-1" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-2.png" alt="Admin Paneli-2" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-3.png" alt="Admin Paneli-3" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-4.png" alt="Admin Paneli-4" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-5.png" alt="Admin Paneli-5" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-6.png" alt="Admin Paneli-6" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-7.png" alt="Admin Paneli-7" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-8.png" alt="Admin Paneli-8" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-9.png" alt="Admin Paneli-9" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-10.png" alt="Admin Paneli-10" width="800" style="margin: 10px;">
-  <img src="Images/AnaSayfa-11.png" alt="Admin Paneli-11" width="800" style="margin: 10px;">
+  <img src="Images/TavilyAI.png" alt="Admin Paneli-1" width="800" style="margin: 10px;">
+  <img src="Images/AIDestekliPlanÖnerisi.png" alt="Admin Paneli-2" width="800" style="margin: 10px;">
+  <img src="Images/ClaudePdfAnalysis.png" alt="Admin Paneli-3" width="800" style="margin: 10px;">
+  <img src="Images/CreateImageWithOpenAI.png" alt="Admin Paneli-4" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-1.png" alt="Admin Paneli-5" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-2.png" alt="Admin Paneli-6" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-SignalRAnlıkChatbot.png" alt="Admin Paneli-7" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-3.png" alt="Admin Paneli-8" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-4.png" alt="Admin Paneli-9" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-5-AIMakaleOluşturma.png" alt="Admin Paneli-10" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-6.png" alt="Admin Paneli-11" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-7.png" alt="Admin Paneli-12" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-8.png" alt="Admin Paneli-13" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-9.png" alt="Admin Paneli-14" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-9-AIMesajPriorityVeKategoriTahmini.png" alt="Admin Paneli-15" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-9-AIMesajPriorityVeKategoriTahmini2.png" alt="Admin Paneli-16" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-10.png" alt="Admin Paneli-17" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-11.png" alt="Admin Paneli-18" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-12.png" alt="Admin Paneli-19" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-13.png" alt="Admin Paneli-20" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-14.png" alt="Admin Paneli-21" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-15.png" alt="Admin Paneli-22" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-16.png" alt="Admin Paneli-23" width="800" style="margin: 10px;">
+  <img src="Images/Dashboard-17.png" alt="Admin Paneli-24" width="800" style="margin: 10px;">
 </div>
 
-### 🔑 Login ve Register Sayfası
-
-<div align="center">
-  <img src="TasteUp-Images/Login.png" alt="Login Sayfası" width="600" style="margin: 10px;">
-  <img src="TasteUp-Images/Register.png" alt="Register Sayfası" width="600" style="margin: 10px;">
-</div>
 
 ### 🗄️ Database Diyagram
 
 <div align="center">
-  <img src="TasteUp-Images/Database.png" alt="Database Diyagram" width="1000" style="margin: 10px;">
+  <img src="Images/Db.png" alt="Database Diyagram" width="1000" style="margin: 10px;">
 </div>
 
 ### ⚠️ Hata Sayfası
 
 <div align="center">
-  <img src="TasteUp-Images/404.png" alt="404 Hata Sayfası" width="1000" style="margin: 10px;">
+  <img src="Images/404.png" alt="404 Hata Sayfası" width="1000" style="margin: 10px;">
 </div>
-
-
----
-
