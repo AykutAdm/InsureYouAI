@@ -40,7 +40,6 @@ InsureYouAI, sigorta sektörüne özel, yapay zeka destekli bir yönetim ve mü�
 - **ASP.NET Core Identity**
 - **SignalR** - Gerçek zamanlı chat ve bildirimler
 - **REST API**
-- **SOLID Prensipleri**
 - **Microsoft ML.NET** - Makine öğrenmesi framework'ü
 - **Microsoft.ML.TimeSeries**
 - **MailKit**
