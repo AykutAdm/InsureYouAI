@@ -1,11 +1,5 @@
 # 🛡️ InsureYouAI
 
-> 🎓 Bu proje, **Murat Yücedağ** hocamızın hazırladığı Udemy'de bulunan 
-
-> **"ASP.NET Core ile Yapay Zeka Entegrasyonları: Sigorta Projesi"** eğitim serisi kapsamında geliştirilmiş, sigorta sektörüne özel bir AI destekli yönetim sistemidir.
-
-[📺 Eğitim serisine buradan ulaşabilirsiniz](https://www.udemy.com/course/aspnet-core-ile-yapay-zeka-entegrasyonlar-sigorta-projesi/)
-
 ---
 
 ## 📋 Proje Hakkında
